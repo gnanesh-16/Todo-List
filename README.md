@@ -43,11 +43,17 @@ Key Features:
 ## Usage
 Usage:
 Task Creation: Users can easily add new tasks to their to-do list by typing in the task description and pressing a button.
+
 Task Display: The list displays tasks with checkboxes to mark them as complete or incomplete.
+
 Task Status: Completed tasks are visually differentiated from incomplete ones, making it easy to see what's been accomplished.
+
 Task Modification: Users can edit task descriptions inline and update them as needed.
+
 Task Deletion: Tasks can be removed from the list with a single click.
+
 Local Storage: Task data is stored locally in the browser, so the list persists across sessions, helping users keep their to-do list handy.
+
 Clear All Tasks: There's an option to clear all tasks at once, offering a fresh start
 
 <!-- Getting Started -->
