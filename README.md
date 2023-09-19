@@ -73,14 +73,14 @@ npm install your-package
 
 <!-- License -->
 
-<!--## License 
+## License 
 License:
 MIT License
 
 Copyright (c) [2023] [Gnanesh-16]
 
 This software is free to use, modify, and share. You can do almost anything with it, but it comes with no warranty. The original authors are not liable for any issues. Please include this license when using or sharing the software.
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.44-->
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.44
 
 
 ## Contributing
@@ -94,22 +94,27 @@ To contribute, follow these steps:
 1. **Fork the Repository:** Start by forking this repository to your GitHub account.
 
 2. **Clone the Repository:** Clone your forked repository to your local machine:
-
    ```bash
      git clone https://github.com/gnanesh-16/Todo-List.git
-   
-  Create a New Branch:
-      git checkout -b feature/your-feature
-  Make Changes: Make your desired changes, whether it's fixing a bug, adding a feature, or improving documentation.
 
-  Commit Your Changes: Commit your changes with a clear and descriptive commit message:
+   
+4. **Create a New Branch:**
+   ```bash
+     git checkout -b feature/your-feature
+  Use a meaningful branch name that reflects the nature of your contribution (e.g.., feature/fix-bug or feature/new-feature)
+   
+  Make Changes:  Make your desired changes, whether it's fixing a bug, adding a feature, or improving documentation.
+
+  Commit Your Changes: Commit your changes with a clear and descriptive commit message
+
+      ```bash
      git commit -m "Add your brief description of changes"
      
-  Push to Your Branch: Push your changes to your forked repository on GitHub:
-    git push origin feature/your-feature
+Push to Your Branch: Push your changes to your forked repository on GitHub:
+  ```bash
+      git push origin feature/your-feature
 
- Thanks,
- We appreciate your support and look forward to your contributions! 🙌
+ Thanks, We appreciate your support and look forward to your contributions! 🙌
 
 
 
