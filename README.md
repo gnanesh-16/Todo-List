@@ -40,7 +40,7 @@ Key Features:
 - Clear all tasks option.
 
 <!--Usage -->
-##Usage
+## Usage
 Task Creation:  Users can easily add new tasks to their to-do list by typing in the task description and pressing a button.
 Task Display: The list displays tasks with checkboxes to mark them as complete or incomplete.
 Task Status: Completed tasks are visually differentiated from incomplete ones, making it easy to see what's been accomplished.
