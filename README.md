@@ -71,18 +71,7 @@ If you have Git installed, open your terminal/command prompt and navigate to the
 Example installation command
 npm install your-package
 
-<!-- License -->
-
-## License 
-License:
-MIT License
-
-Copyright (c) [2023] [Gnanesh-16]
-
-This software is free to use, modify, and share. You can do almost anything with it, but it comes with no warranty. The original authors are not liable for any issues. Please include this license when using or sharing the software.
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.44
-
-
+<!-- Contributing -->
 ## Contributing
 
 🚀 We welcome contributions from the open-source community to help make our Simple To-Do List project even better. Whether you're a developer, designer, or user with feedback, your contributions are valuable to us.
@@ -101,20 +90,41 @@ To contribute, follow these steps:
 4. **Create a New Branch:**
    ```bash
      git checkout -b feature/your-feature
+  
   Use a meaningful branch name that reflects the nature of your contribution (e.g.., feature/fix-bug or feature/new-feature)
-   
-  Make Changes:  Make your desired changes, whether it's fixing a bug, adding a feature, or improving documentation.
+   - Make Changes:  Make your desired changes, whether it's fixing a bug, adding a feature, or improving documentation.
 
-  Commit Your Changes: Commit your changes with a clear and descriptive commit message
-
-      ```bash
+5. **Commit Your Changes:**  Commit your changes with a clear and descriptive commit message
+    ```bash
      git commit -m "Add your brief description of changes"
-     
-Push to Your Branch: Push your changes to your forked repository on GitHub:
-  ```bash
-      git push origin feature/your-feature
 
- Thanks, We appreciate your support and look forward to your contributions! 🙌
+
+6. **Push to Your Branch:**  Push your changes to your forked repository on GitHub:
+    ```bash
+      git push origin feature/your-feature
+7. Create a Pull Request (PR):
+   - Go to the original project's repository on GitHub and click the "New Pull Request" button.
+   - Choose the branch you created earlier as the base branch.
+   - Fill out the PR template, providing a clear description of your changes and why they should be merged.
+   - 
+Thanks, We appreciate your support and look forward to your contributions! 🙌
+
+<!-- License -->
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+MIT License
+
+Copyright (c) [2023] [Gnanesh-16]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 
