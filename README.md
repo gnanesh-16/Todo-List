@@ -41,7 +41,7 @@ Key Features:
 
 <!--Usage -->
 ##Usage
-Task Creation: Users can easily add new tasks to their to-do list by typing in the task description and pressing a button.
+Task Creation:  Users can easily add new tasks to their to-do list by typing in the task description and pressing a button.
 Task Display: The list displays tasks with checkboxes to mark them as complete or incomplete.
 Task Status: Completed tasks are visually differentiated from incomplete ones, making it easy to see what's been accomplished.
 Task Modification: Users can edit task descriptions inline and update them as needed.
@@ -74,9 +74,5 @@ Copyright (c) [2023] [Gnanesh-16]
 
 This software is free to use, modify, and share. You can do almost anything with it, but it comes with no warranty. The original authors are not liable for any issues. Please include this license when using or sharing the software.
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-<p align="center">
-    Copyright (c) [2023] [Gnanesh-16]
-</p>
 
 
