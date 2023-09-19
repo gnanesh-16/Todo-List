@@ -73,14 +73,14 @@ npm install your-package
 
 <!-- License -->
 
-## License 
+<!--## License 
 License:
 MIT License
 
 Copyright (c) [2023] [Gnanesh-16]
 
 This software is free to use, modify, and share. You can do almost anything with it, but it comes with no warranty. The original authors are not liable for any issues. Please include this license when using or sharing the software.
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.44
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.44-->
 
 
 ## Contributing
