@@ -25,13 +25,22 @@
 - [License](#license)
 
 <!-- About -->
+## About
 Overview:
 The Simple To-Do List project is a web application built using HTML, CSS, and JavaScript that allows users to create, manage, and organize their tasks in an easy and efficient manner. This project provides a simple and intuitive user interface for adding, updating, and deleting tasks. It's a practical tool designed to help users stay organized and keep track of their daily tasks, assignments, and chores.
 
 <!-- Features -->
 ## Features
 Key Features:
+- Add tasks quickly.
+- Mark tasks as done.
+- Edit task descriptions.
+- Delete tasks effortlessly.
+- Automatic local storage.
+- Clear all tasks option.
 
+<!--Usage -->
+##Usage
 Task Creation: Users can easily add new tasks to their to-do list by typing in the task description and pressing a button.
 Task Display: The list displays tasks with checkboxes to mark them as complete or incomplete.
 Task Status: Completed tasks are visually differentiated from incomplete ones, making it easy to see what's been accomplished.
@@ -56,3 +65,18 @@ If you have Git installed, open your terminal/command prompt and navigate to the
 ```bash
 # Example installation command
 npm install your-package
+
+<!-- License -->
+
+MIT License
+
+Copyright (c) [2023] [Gnanesh-16]
+
+This software is free to use, modify, and share. You can do almost anything with it, but it comes with no warranty. The original authors are not liable for any issues. Please include this license when using or sharing the software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+<p align="center">
+    Copyright (c) [2023] [Gnanesh-16]
+</p>
+
+
