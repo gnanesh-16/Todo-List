@@ -8,11 +8,11 @@
   Todo-list  Offers a range of features that can help you manage your tasks more efficiently
 </p>
 
-<!-- Badges (optional) -->
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status: Active">
   <img src="https://img.shields.io/badge/version-v1.0-blue.svg" alt="Version: 1.0">
-  <img src="https://img.shields.io/github/license/your-username/your-repo" alt="License: MIT">
+  <img src="https://img.shields.io/github/gnanesh-16/Todo-List/blob/main/LICENSE" alt="License: MIT">
 </p>
 
 <!-- Table of Contents (optional) -->
