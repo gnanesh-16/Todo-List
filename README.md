@@ -106,13 +106,13 @@ To contribute, follow these steps:
    - Go to the original project's repository on GitHub and click the "New Pull Request" button.
    - Choose the branch you created earlier as the base branch.
    - Fill out the PR template, providing a clear description of your changes and why they should be merged.
-   - 
+   
 Thanks, We appreciate your support and look forward to your contributions! 🙌
 
 <!-- License -->
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 MIT License
 
 Copyright (c) [2023] [Gnanesh-16]
