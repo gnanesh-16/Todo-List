@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status: Active">
   <img src="https://img.shields.io/badge/version-v1.0-blue.svg" alt="Version: 1.0">
 <!--   <img src="https://img.shields.io/github/" alt="License: MIT"> -->
-  <a href="https://github.com/gnanesh-16/Todo-List/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-username/your-repo" alt="License: MIT"></a>
+  <a href="https://github.com/gnanesh-16/Todo-List/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-username/your-repo" alt="License: MIT Verified"></a>
 </p>
 
 <!-- Table of Contents (optional) -->
